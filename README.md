@@ -1,6 +1,6 @@
 # Diabetes Readmission calculator App: 
 
-
+Government and commercial insurers view lower readmissions as a sign of higher-quality care and greater cost consciousness by hospitals. While many readmissions are unavoidable, researchers have found wide variation in hospitalsâ readmission rates, suggesting that patients with certain demographics and medical history are more likely to experience readmissions compared to other hospitals. The goal of our analysis was to understand trends related to Readmission of Diabetic patients and calculate their probability of readmission to a hospital. We developed an interactive tool geared towards helping hospitals, independent medical practitioners and patients to understand how patterns related to demographics and patient history can impact readmission and calculate readmission probability given a case of Diabetic patient. More specifically, in case of readmission, this tool will segregate if patient would be readmitted in less than 30 days or in 30-90 days. This system is based on the data collected over a decade from 130 US hospitals. It used R to run the predictive models and graphics, and R Shiny renders the User Interface along with the interactions
 
 **Tab1=Home** :
 The home page of the Diabetes Readmission calculator provides a tabular representation of the data for exploratory analysis. It helps to select just a subset of the data given certain conditions on characteristics of patients.
